@@ -1,5 +1,7 @@
 # FastAPI Speech-to-Text API
 
+live running on this address https://speech-to-text-api-gi5p.onrender.com/
+
 A Python FastAPI microservice for converting speech/audio into text using `faster-whisper`.
 
 ---
